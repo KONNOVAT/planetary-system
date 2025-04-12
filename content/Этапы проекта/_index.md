@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Этапы
 
 # Listing view
 view: citation

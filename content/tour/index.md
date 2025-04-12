@@ -1,5 +1,5 @@
 ---
-title: Tour
+title: О нас
 date: 2025-04-12
 
 type: landing
@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: Сотрудничайте с нами ☕️
         content: 'Поделитесь своими знаниями с группой и исследуйте вместе новые захватывающие темы!'
         align: left
         background:

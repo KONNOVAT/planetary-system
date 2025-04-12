@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: Контакты
       text: |-
         Добро пожаловать на страницу нашей команды! Мы — группа из пяти увлеченных исследователей, объединенных общей целью: изучение модели формирования планетной системы на основе теоретического анализа и численного моделирования. Наша работа направлена на понимание процессов, которые привели к образованию планет, их спутников и других небесных тел в нашей и других звездных системах.
       address:
@@ -18,13 +18,11 @@ sections:
         country: Россия
         country_code: RU
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '55.710022'
+        longitude: '37.595860'
       office_hours:
         - 'Понедельник 10:00 to 13:00'
         - 'Четверг 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas

@@ -13,9 +13,6 @@ main:
   - name: Участники
     url: people
     weight: 30
-  - name: События
-    url: event
-    weight: 40
   - name: Этапы
     url: publication
     weight: 50

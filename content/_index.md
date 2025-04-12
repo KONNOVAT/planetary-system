@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Исследование модели формирования планетной системы на основе теоретического анализа и численного моделирования.
   
   - block: collection
     content:

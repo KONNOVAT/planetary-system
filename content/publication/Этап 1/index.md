@@ -1,7 +1,11 @@
 ---
 title: "Этап 1"
 authors:
+- Нефедова Наталья
 - admin
+- Уткина Алина
+- Тарутина Кристина
+- Коннова Татьяна
 date: "2025-04-01T00:00:00Z"
 doi: ""
 
@@ -26,17 +30,17 @@ tags:
 - Этапы
 featured: false
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#links:
+#- name: Custom Link
+#  url: http://example.org
+#url_pdf: http://arxiv.org/pdf/1512.04133v1
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -60,10 +64,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
 Формирование планетных систем является сложным и многогранным процессом, который начинается в протозвёздных облаках, состоящих из газа и пыли. Эти облака, известные как молекулярные облака, являются основными местами рождения звёзд и планет. В результате гравитационного коллапса части облака образуется протозвезда, окружённая протопланетным диском, в котором происходят процессы акреции и агрегации.
 

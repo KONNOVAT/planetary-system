@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - image:
-            brightnes: 0.9
+            brightness: 0.9
             filename: presentation_3_page-0001.jpg
       - image:
             filename: presentation_3_page-0002.jpg

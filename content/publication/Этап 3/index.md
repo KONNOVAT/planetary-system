@@ -174,7 +174,8 @@ plot_trajectory(trajectory)
 
 ## Презентация выполнения исследования в рамках 3-его этапа выполнения
 
-![Посмотреть презентацию](https://konnovat.github.io/planetary-system/publication/pres_3)
+<a href="https://konnovat.github.io/planetary-system/publication/pres_3" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Посмотреть презентацию</a>
+
 
 ## Выполнение кода
 

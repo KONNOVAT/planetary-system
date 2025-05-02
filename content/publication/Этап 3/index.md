@@ -174,6 +174,10 @@ plot_trajectory(trajectory)
 
 ## Презентация выполнения исследования в рамках 3-его этапа выполнения
 
+---
+title: My page
+type: landing
+
 sections:
   - block: slider
     content:

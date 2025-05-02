@@ -174,7 +174,7 @@ plot_trajectory(trajectory)
 
 ## Презентация выполнения исследования в рамках 3-его этапа выполнения
 
-<iframe src="https://konnovat.github.io/planetary-system/tour/ width="100%" height="600px"></iframe>
+<iframe src="../../tour width="100%" height="600px"></iframe>
 
 
 ## Выполнение кода

@@ -177,21 +177,11 @@ plot_trajectory(trajectory)
 
 ## Выполнение кода
 
-В итоге получился gif движения планетной системы, результат в видеоформате будет представлен в защите презентации.
+В итоге получился gif движения планетной системы:
 
 <figure>
-    <img src="img_1.png" alt="Подпись к изображению" />
-    <figcaption>Часть планетной системы 1</figcaption>
-</figure>
-
-<figure>
-    <img src="img_2.png" alt="Подпись к изображению" />
-    <figcaption>Часть планетной системы 2</figcaption>
-</figure>
-
-<figure>
-    <img src="img_3.png" alt="Подпись к изображению" />
-    <figcaption>Часть планетной системы 3</figcaption>
+    <img src="planetary_system.mp4" alt="Подпись к изображению" />
+    <figcaption>Планетная система</figcaption>
 </figure>
 
 ## Итоги исследования

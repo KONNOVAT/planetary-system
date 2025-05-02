@@ -174,76 +174,62 @@ plot_trajectory(trajectory)
 
 ## Презентация выполнения исследования в рамках 3-его этапа выполнения
 
-<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
-<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+sections:
+  - block: slider
+    content:
+      slides:
+        - title: 👋 Welcome to the group
+          content: Take a look at what we're working on...
+          align: center
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: coders.jpg
+              filters:
+                brightness: 0.7
+            position: right
+            color: '#666'
+        - title: Lunch & Learn ☕️
+          content: 'Share your knowledge with the group and explore exciting new topics together!'
+          align: left
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: contact.jpg
+              filters:
+                brightness: 0.7
+            position: center
+            color: '#555'
+        - title: World-Class Semiconductor Lab
+          content: 'Just opened last month!'
+          align: right
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: welcome.jpg
+              filters:
+                brightness: 0.5
+            position: center
+            color: '#333'
+          link:
+            icon: graduation-cap
+            icon_pack: fas
+            text: Join Us
+            url: ../contact/
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      # Make the slides full screen within the browser window?
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
+---
 
-<div class="swiper-container">
-    <div class="swiper-wrapper">
-        <div class="swiper-slide">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0001.jpg" alt="Презентация" />
-        </div>
-        <div class="swiper-slide">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0002.jpg" alt="Изображение 2" />
-        </div>
-        <div class="swiper-slide">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0003.jpg" alt="Изображение 3" />
-        </div>
-        <div class="swiper-slide">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0004.jpg" alt="Изображение 4" />
-        </div>
-        <div class="swiper-slide">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0005.jpg" alt="Изображение 5" />
-        </div>
-        <div class="swiper-slide">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0006.jpg" alt="Изображение 6" />
-        </div>
-        <div class="swiper-slide">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0007.jpg" alt="Изображение 7" />
-        </div>
-        <div class="swiper-slide">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0008.jpg" alt="Изображение 8" />
-        </div>
-        <div class="swiper-slide">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0009.jpg" alt="Изображение 9" />
-        </div>
-        <div class="swiper-slide">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0010.jpg" alt="Изображение 10" />
-        </div>
-        <div class="swiper-slide">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0011.jpg" alt="Изображение 11" />
-        </div>
-        <div class="swiper-slide">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0012.jpg" alt="Изображение 12" />
-        </div>
-        <div class="swiper-slide">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0013.jpg" alt="Изображение 13" />
-        </div>
-        <div class="swiper-slide">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0014.jpg" alt="Изображение 14" />
-        </div>
-        <div class="swiper-slide">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0015.jpg" alt="Изображение 15" />
-        </div>
-        <div class="swiper-slide">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0016.jpg" alt="Изображение 16" />
-        </div>
-        <div class="swiper-slide">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0017.jpg" alt="Изображение 17" />
-        </div>
-        <div class="swiper-slide">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0018.jpg" alt="Изображение 18" />
-        </div>
-        <div class="swiper-slide">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0019.jpg" alt="Изображение 19" />
-        </div>
-        <div class="swiper-slide">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0020.jpg" alt="Изображение 20" />
-        </div>
-        <div class="swiper-slide">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0021.jpg" alt="Изображение 21" />
-        </div>
-    </div>
-</div>
 
 
 ## Выполнение кода

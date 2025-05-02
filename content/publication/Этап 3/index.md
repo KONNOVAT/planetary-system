@@ -31,6 +31,8 @@ featured: false
 links:
 - name: Rutube
   url: https://rutube.ru/video/private/d1bb27950ede224731ca296fcb9bc7ce/?p=KQUj0RfnH2VIcnpJjEAEHg
+- name: Платформа
+  url: https://plvideo.ru/watch?v=Z-SYZNIzky3q
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'

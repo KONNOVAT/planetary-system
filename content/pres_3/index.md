@@ -8,26 +8,10 @@ sections:
   - block: slider
     content:
       slides:
-      - title:
-        content:
-        align: center
-        background:
-          image:
+      - image:
             filename: presentation_3_page-0001.jpg
-            filters:
-              brightness: 1
-          position: center
-          color: '#666'
-      - title: 
-        content:
-        align: center
-        background:
-          image:
+      - image:
             filename: presentation_3_page-0002.jpg
-            filters:
-              brightness: 1
-          position: center
-          color: '#555'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''

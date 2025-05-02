@@ -172,9 +172,6 @@ plot_trajectory(trajectory)
 
 <iframe width="560" height="315" src="https://plvideo.ru/watch?v=Z-SYZNIzky3q" frameborder="0" allowfullscreen></iframe>
 
-## Презентация выполнения исследования в рамках 3-его этапа выполнения
-
-![Посмотреть презентацию](https://konnovat.github.io/planetary-system/publication/pres_3)
 
 ## Выполнение кода
 

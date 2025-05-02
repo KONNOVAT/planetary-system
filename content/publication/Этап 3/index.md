@@ -174,24 +174,13 @@ plot_trajectory(trajectory)
 
 ## Презентация выполнения исследования в рамках 3-его этапа выполнения
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Слайдер изображений</title>
-</head>
-<body>
-    <div class="slider">
-        <div class="slides">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0001.jpg" alt="Слайд 1">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0002.jpg" alt="Слайд 2">
-            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0003.jpg" alt="Слайд 3">
-        </div>
-    </div>
-</body>
-</html>
+- block: buttons
+    content:
+      buttons:
+        - title: Ознакомьтесь с презентацией
+          icon: ../pres_3/ilovepdf_pages-to-jpg/presentation_3_page-0001.jpg
+          url: ../pres_3
+
 
 ## Выполнение кода
 

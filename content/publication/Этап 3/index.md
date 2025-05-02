@@ -173,7 +173,10 @@ plot_trajectory(trajectory)
 
 Ниже представлено программное выполнение кода на языке Julia:
 
-![Выполнение кода](img.png)
+<figure>
+    <img src="img.png" alt="Подпись к изображению" />
+    <figcaption>Выполнение кода</figcaption>
+</figure>
 
 ## Выполнение кода
 

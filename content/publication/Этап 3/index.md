@@ -174,7 +174,7 @@ plot_trajectory(trajectory)
 
 ## Презентация выполнения исследования в рамках 3-его этапа выполнения
 
-<iframe src="presentation_3.pptx" width="100%" height="600px"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1iB8pvkvWlPzYHfcOkBC47rVuTyvKn_DwvuQLv7g3L-Y/edit#slide=id.g353cec498fc_0_1" width="100%" height="600px"></iframe>
 
 
 ## Выполнение кода

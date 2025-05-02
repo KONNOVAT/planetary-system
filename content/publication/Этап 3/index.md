@@ -243,11 +243,6 @@ plot_trajectory(trajectory)
             <img src="ilovepdf_pages-to-jpg/presentation_3_page-0021.jpg" alt="Изображение 21" />
         </div>
     </div>
-    
-    <!-- Навигация -->
-    <div class="swiper-button-next"></div>
-    <div class="swiper-button-prev"></div>
-    <div class="swiper-pagination"></div>
 </div>
 
 

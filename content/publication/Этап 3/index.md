@@ -180,7 +180,7 @@ plot_trajectory(trajectory)
 В итоге получился gif движения планетной системы:
 
 <figure>
-    <img src="planetary_system.mp4" alt="Подпись к изображению" />
+    <img src="planetary_system.gif" alt="Подпись к изображению" />
     <figcaption>Планетная система</figcaption>
 </figure>
 

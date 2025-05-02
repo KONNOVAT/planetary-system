@@ -1,6 +1,6 @@
 ---
-title: О нас
-date: 2025-04-12
+title: Презентация выполнения исследования в рамках 3-его этапа выполнения
+date: 2025-05-02
 
 type: landing
 
@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: ilovepdf_pages-to-jpg/presentation_3_page-0001.jpg
+            filename: presentation_3_page-0001.jpg
             filters:
               brightness: 0.7
           position: right
@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: ilovepdf_pages-to-jpg/presentation_3_page-0002.jpg
+            filename: presentation_3_page-0002.jpg
             filters:
               brightness: 0.7
           position: center

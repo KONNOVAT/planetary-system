@@ -174,7 +174,11 @@ plot_trajectory(trajectory)
 
 ## Презентация выполнения исследования в рамках 3-его этапа выполнения
 
-[presentation_3.pptx](presentation_3.pptx)
+url_slides:
+  theme: black # Reveal JS theme name
+  highlight_style: dracula # Highlight JS theme name
+  url_slides: /presentation_3.pptx
+
 
 ## Выполнение кода
 

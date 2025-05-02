@@ -14,7 +14,7 @@ sections:
         background:
           image:
             filename: presentation_3_page-0001.jpg
-          position: center
+          position: bottom
           color: '#666'
       - title: 
         content:
@@ -22,7 +22,7 @@ sections:
         background:
           image:
             filename: presentation_3_page-0002.jpg
-          position: center
+          position: bottom
           color: '#555'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')

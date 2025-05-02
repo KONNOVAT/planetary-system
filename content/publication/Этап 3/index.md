@@ -170,7 +170,7 @@ plot_trajectory(trajectory)
 
 Ознакомиться с видео-выполнением можно здесь:
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=lJKop6VPCOc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://plvideo.ru/watch?v=crACxki7Qwqh" frameborder="0" allowfullscreen></iframe>
 
 
 ## Выполнение кода

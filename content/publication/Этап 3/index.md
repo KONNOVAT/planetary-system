@@ -172,11 +172,8 @@ plot_trajectory(trajectory)
 
 <iframe width="560" height="315" src="https://plvideo.ru/watch?v=Z-SYZNIzky3q" frameborder="0" allowfullscreen></iframe>
 
-## Презентация выполнения
----
-title: "Презентация выполнения исследования в рамках 3-его этапа выполнения"
-date: 2025-05-02
----
+## Презентация выполнения исследования в рамках 3-его этапа выполнения
+
 <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
 <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 

@@ -177,6 +177,8 @@ plot_trajectory(trajectory)
 title: "Презентация выполнения исследования в рамках 3-его этапа выполнения"
 date: 2025-05-02
 ---
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
 <div class="swiper-container">
     <div class="swiper-wrapper">

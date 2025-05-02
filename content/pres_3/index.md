@@ -6,12 +6,11 @@ type: landing
 
 sections:
   - block: slider
-    content:
-      slides:
-      - image:
-            filename: presentation_3_page-0001.jpg
-      - image:
-            filename: presentation_3_page-0002.jpg
+    slides:
+    - image:
+          filename: presentation_3_page-0001.jpg
+    - image:
+          filename: presentation_3_page-0002.jpg
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''

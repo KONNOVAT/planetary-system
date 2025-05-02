@@ -174,15 +174,7 @@ plot_trajectory(trajectory)
 
 ## Презентация выполнения исследования в рамках 3-его этапа выполнения
 
-- title: "Предпросмотр сайта"
-  content: 
-    - type: "html"
-      html: |
-        <div style="text-align: center;">
-          <iframe src="https://konnovat.github.io/planetary-system/publication/pres_3" width="600" height="400" style="border: none;"></iframe>
-          <br>
-          <a href="https://konnovat.github.io/planetary-system/publication/pres_3" class="btn btn-primary" target="_blank">Посмотреть презентацию</a>
-        </div>
+https://konnovat.github.io/planetary-system/publication/pres_3
 
 ## Выполнение кода
 

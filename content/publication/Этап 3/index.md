@@ -179,10 +179,15 @@ plot_trajectory(trajectory)
 
 В итоге получился gif движения планетной системы, результат в видеоформате будет представлен в защите презентации.
 
+<figure>
+    <img src="img_1.png" alt="Подпись к изображению" />
+    <figcaption>Часть планетной системы 1</figcaption>
+</figure>
 
-![Часть планетной системы 1](img_1.png)
-
-![Часть планетной системы 2](img_2.png)
+<figure>
+    <img src="img_2.png" alt="Подпись к изображению" />
+    <figcaption>Часть планетной системы 2</figcaption>
+</figure>
 
 <figure>
     <img src="img_3.png" alt="Подпись к изображению" />

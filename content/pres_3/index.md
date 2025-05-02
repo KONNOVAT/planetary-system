@@ -15,17 +15,17 @@ sections:
           image:
             filename: presentation_3_page-0001.jpg
             filters:
-              brightness: 0.7
-          position: right
+              brightness: 1
+          position: center
           color: '#666'
       - title: 
         content:
-        align: left
+        align: center
         background:
           image:
             filename: presentation_3_page-0002.jpg
             filters:
-              brightness: 0.7
+              brightness: 1
           position: center
           color: '#555'
     design:

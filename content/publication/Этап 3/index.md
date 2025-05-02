@@ -172,6 +172,85 @@ plot_trajectory(trajectory)
 
 <iframe width="560" height="315" src="https://plvideo.ru/watch?v=Z-SYZNIzky3q" frameborder="0" allowfullscreen></iframe>
 
+## Презентация выполнения
+---
+title: "Презентация выполнения исследования в рамках 3-его этапа выполнения"
+date: 2025-05-02
+---
+
+<div class="swiper-container">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide">
+            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0001.jpg" alt="Презентация" />
+        </div>
+        <div class="swiper-slide">
+            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0002.jpg" alt="Изображение 2" />
+        </div>
+        <div class="swiper-slide">
+            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0003.jpg" alt="Изображение 3" />
+        </div>
+        <div class="swiper-slide">
+            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0004.jpg" alt="Изображение 4" />
+        </div>
+        <div class="swiper-slide">
+            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0005.jpg" alt="Изображение 5" />
+        </div>
+        <div class="swiper-slide">
+            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0006.jpg" alt="Изображение 6" />
+        </div>
+        <div class="swiper-slide">
+            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0007.jpg" alt="Изображение 7" />
+        </div>
+        <div class="swiper-slide">
+            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0008.jpg" alt="Изображение 8" />
+        </div>
+        <div class="swiper-slide">
+            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0009.jpg" alt="Изображение 9" />
+        </div>
+        <div class="swiper-slide">
+            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0010.jpg" alt="Изображение 10" />
+        </div>
+        <div class="swiper-slide">
+            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0011.jpg" alt="Изображение 11" />
+        </div>
+        <div class="swiper-slide">
+            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0012.jpg" alt="Изображение 12" />
+        </div>
+        <div class="swiper-slide">
+            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0013.jpg" alt="Изображение 13" />
+        </div>
+        <div class="swiper-slide">
+            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0014.jpg" alt="Изображение 14" />
+        </div>
+        <div class="swiper-slide">
+            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0015.jpg" alt="Изображение 15" />
+        </div>
+        <div class="swiper-slide">
+            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0016.jpg" alt="Изображение 16" />
+        </div>
+        <div class="swiper-slide">
+            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0017.jpg" alt="Изображение 17" />
+        </div>
+        <div class="swiper-slide">
+            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0018.jpg" alt="Изображение 18" />
+        </div>
+        <div class="swiper-slide">
+            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0019.jpg" alt="Изображение 19" />
+        </div>
+        <div class="swiper-slide">
+            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0020.jpg" alt="Изображение 20" />
+        </div>
+        <div class="swiper-slide">
+            <img src="ilovepdf_pages-to-jpg/presentation_3_page-0021.jpg" alt="Изображение 21" />
+        </div>
+    </div>
+    
+    <!-- Навигация -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-pagination"></div>
+</div>
+
 
 ## Выполнение кода
 

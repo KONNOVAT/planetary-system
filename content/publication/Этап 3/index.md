@@ -171,7 +171,7 @@ plot_trajectory(trajectory)
 Ознакомиться с видео-выполнением можно здесь:
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
-    <iframe src="https://rutube.ru/video/private/d1bb27950ede224731ca296fcb9bc7ce/?p=KQUj0RfnH2VIcnpJjEAEHg" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://rutube.ru/video/7d47fd68bdc81641ac960e30ed32d68c/" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Выполнение кода

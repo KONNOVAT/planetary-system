@@ -178,8 +178,8 @@ plot_trajectory(trajectory)
     content:
       buttons:
         - title: Ознакомьтесь с презентацией
-          icon: ../pres_3/ilovepdf_pages-to-jpg/presentation_3_page-0001.jpg
-          url: ../pres_3
+          icon: presentation_3_page-0001.jpg
+          url: https://konnovat.github.io/planetary-system/publication/pres_3/
 
 
 ## Выполнение кода

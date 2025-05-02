@@ -174,14 +174,20 @@ plot_trajectory(trajectory)
 
 ## Презентация выполнения исследования в рамках 3-его этапа выполнения
 
-- block: buttons
+sections:
+  - block: hero
     content:
-      buttons:
-        - title: Ознакомьтесь с презентацией
-          icon: presentation_3_page-0001.jpg
-          url: https://konnovat.github.io/planetary-system/publication/pres_3/
-
-
+      primary_action:
+        text: Ознакомьтесь с презентацией
+        url: https://konnovat.github.io/planetary-system/publication/pres_3/
+        icon: rocket-launch
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
+      css_class: "dark"
+      background:
+        color: "navy"
 ## Выполнение кода
 
 В итоге получился gif движения планетной системы:

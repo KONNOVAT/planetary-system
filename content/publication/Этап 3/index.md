@@ -166,7 +166,7 @@ central_mass = 1000.0
 trajectory = simulate_particles(N, time_steps, dt, central_mass)
 plot_trajectory(trajectory)
 ```
-## Предоставление видео-выполнения исследования
+## Предоставление видео-выполнения исследования.
 
 Ознакомиться с видео-выполнением можно здесь:
 

@@ -266,7 +266,7 @@ plot_trajectory(trajectory)
 ## Презентация к данному этапу
 Ознакомиться с видео-выполнением можно здесь:
 
-[Презентация](/pres_4.pdf)
+[Презентация](/planetary-system/pres_4.pdf)
 
 <iframe width="100%" height="400" src="https://plvideo.ru/watch?v=_ff54BkazAdB" frameborder="0" allowfullscreen></iframe>
 

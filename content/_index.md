@@ -18,7 +18,7 @@ sections:
   
   - block: collection
     content:
-      title: Этап 1
+      title: Отчеты по этапам
       subtitle:
       text:
       count: 5
@@ -30,26 +30,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-  
-  - block: collection
-    content:
-      title: Этап 2
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
+      page_type: publication
     design:
       view: card
       columns: '1'
